@@ -1,11 +1,22 @@
 body {
   background-color: blue;
+  width: 350px;
+  height: 450px;
 }
 
 .list {
-  font-size: 50px;
+  font-size: 35px;
 }
 
 .sublist {
-  font-size: 25px;
+  font-size: 20px;
+}
+
+.my-button {
+  float: right;
+}
+
+.sublist,
+.my-button {
+  display:inline-block;
 }
