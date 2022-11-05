@@ -6,15 +6,18 @@ body {
 
 .list {
   font-size: 35px;
-  margin: 15px 10px;
+  margin: 10px 100px 5px;
 }
 
 .sublist {
   font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 15px;
 }
 
 .my-button {
   float: right;
+  margin-right: 20px;
 }
 
 .head {
@@ -26,7 +29,7 @@ body {
 .menu-list {
   background-color: white;
   width: 355px;
-  height: 365px;
+  height: 460px;
 }
 
 .sublist,
