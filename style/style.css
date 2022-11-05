@@ -1,11 +1,12 @@
 body {
-  background-color: blue;
+  background-color: rgb(35, 19, 95);
   width: 350px;
   height: 450px;
 }
 
 .list {
   font-size: 35px;
+  margin: 15px 10px;
 }
 
 .sublist {
@@ -16,7 +17,20 @@ body {
   float: right;
 }
 
+.head {
+  background-color: blue;
+  width: 355px;
+  height: 60px;
+}
+
+.menu-list {
+  background-color: white;
+  width: 355px;
+  height: 365px;
+}
+
 .sublist,
-.my-button {
+.my-button,
+.list {
   display:inline-block;
 }
