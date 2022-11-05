@@ -1,11 +1,11 @@
 body {
-  background-color: violet;
+  background-color: blue;
 }
 
-.list {
-  width: 50px;
+.blist {
+  font-size: 50px;
 }
 
-.to-do {
-  width: 25px;
+.sublist {
+  font-size: 25px;
 }
