@@ -1,0 +1,11 @@
+body {
+  background-color: violet;
+}
+
+.list {
+  width: 150px;
+}
+
+.to-do {
+  width: 25px;
+}
